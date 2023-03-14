@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://www.rcsb.org/
+HostUrl=https://models.rcsb.org/v1/5rh5/ligand?auth_seq_id=1001&label_asym_id=B&encoding=mol2&filename=5rh5_B_UHV.mol2

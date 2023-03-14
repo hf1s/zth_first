@@ -1,0 +1,20 @@
+BR
+  -OEChem-02242320023D
+
+  1  0  0     0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 Br  0  5  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1  -1
+M  END
+> <OPENEYE_ISO_SMILES>
+[Br-]
+
+> <OPENEYE_INCHI>
+InChI=1S/BrH/h1H/p-1
+
+> <OPENEYE_INCHIKEY>
+CPELXLSAUQHCOX-UHFFFAOYSA-M
+
+> <FORMULA>
+Br-
+
+$$$$

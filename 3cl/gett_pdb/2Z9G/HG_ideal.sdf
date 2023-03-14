@@ -1,0 +1,20 @@
+HG
+  -OEChem-02242320023D
+
+  1  0  0     0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 Hg  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END
+> <OPENEYE_ISO_SMILES>
+[Hg+2]
+
+> <OPENEYE_INCHI>
+InChI=1S/Hg/q+2
+
+> <OPENEYE_INCHIKEY>
+BQPIGGFYSBELGY-UHFFFAOYSA-N
+
+> <FORMULA>
+Hg+2
+
+$$$$

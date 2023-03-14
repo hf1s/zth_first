@@ -1,0 +1,20 @@
+CD
+  -OEChem-02242320023D
+
+  1  0  0     0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 Cd  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END
+> <OPENEYE_ISO_SMILES>
+[Cd+2]
+
+> <OPENEYE_INCHI>
+InChI=1S/Cd/q+2
+
+> <OPENEYE_INCHIKEY>
+WLZRMCYVCSSEQC-UHFFFAOYSA-N
+
+> <FORMULA>
+Cd+2
+
+$$$$

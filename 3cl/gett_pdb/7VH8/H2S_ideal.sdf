@@ -1,0 +1,23 @@
+H2S
+  -OEChem-02242320023D
+
+  3  2  0     0  0  0  0  0  0999 V2000
+   -0.0510    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8130    0.0000   -1.0300 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8130    0.0000    1.0300 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+M  END
+> <OPENEYE_ISO_SMILES>
+S
+
+> <OPENEYE_INCHI>
+InChI=1S/H2S/h1H2
+
+> <OPENEYE_INCHIKEY>
+RWSOTUBLDIXVET-UHFFFAOYSA-N
+
+> <FORMULA>
+H2S
+
+$$$$
